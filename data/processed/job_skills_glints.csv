@@ -1,0 +1,663 @@
+job_id,role_group,skill_name,skill_category,extraction_method
+a0726783-7124-4916-8797-52a6bee58e07,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+a0726783-7124-4916-8797-52a6bee58e07,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+a0726783-7124-4916-8797-52a6bee58e07,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+a0726783-7124-4916-8797-52a6bee58e07,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+f531ab9c-2168-43ee-bc0e-2c6175c326ba,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+f531ab9c-2168-43ee-bc0e-2c6175c326ba,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+f531ab9c-2168-43ee-bc0e-2c6175c326ba,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+f531ab9c-2168-43ee-bc0e-2c6175c326ba,Data Analytics & BI,MySQL,Database & Storage,dictionary_regex
+f531ab9c-2168-43ee-bc0e-2c6175c326ba,Data Analytics & BI,Data Warehousing,Data Engineering,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,PostgreSQL,Database & Storage,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,MySQL,Database & Storage,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,Microsoft SQL Server,Database & Storage,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,Data Warehousing,Data Engineering,dictionary_regex
+42869c9f-8db6-47eb-aea4-370996ecff03,Data Analytics & BI,AWS,Cloud & DevOps,dictionary_regex
+06ecc907-3364-4f70-96ba-d04eeff207f2,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+06ecc907-3364-4f70-96ba-d04eeff207f2,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+06ecc907-3364-4f70-96ba-d04eeff207f2,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+06ecc907-3364-4f70-96ba-d04eeff207f2,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+06ecc907-3364-4f70-96ba-d04eeff207f2,Data Analytics & BI,Microsoft SQL Server,Database & Storage,dictionary_regex
+9a6f1864-e2a3-4916-b072-9160edcb851f,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+9a6f1864-e2a3-4916-b072-9160edcb851f,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+9a6f1864-e2a3-4916-b072-9160edcb851f,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+9a6f1864-e2a3-4916-b072-9160edcb851f,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Python,Programming Language,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,R,Programming Language,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Data Warehousing,Data Engineering,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+49aa60d2-7470-4bc6-b062-d4fc9261dde3,Data Analytics & BI,Data Modeling,Data Engineering,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Python,Programming Language,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Microsoft SQL Server,Database & Storage,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Redis,Database & Storage,dictionary_regex
+111d465e-4226-4e26-b812-8eb408d9841c,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+aa07c9b6-2ee9-4dcc-bbbc-64ff0734a98f,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+aa07c9b6-2ee9-4dcc-bbbc-64ff0734a98f,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+aa07c9b6-2ee9-4dcc-bbbc-64ff0734a98f,Data Analytics & BI,Data Modeling,Data Engineering,dictionary_regex
+e4cc66ac-3bfa-4fdf-b61f-c8406298b8a5,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+e4cc66ac-3bfa-4fdf-b61f-c8406298b8a5,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+e4cc66ac-3bfa-4fdf-b61f-c8406298b8a5,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+e4cc66ac-3bfa-4fdf-b61f-c8406298b8a5,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+e4cc66ac-3bfa-4fdf-b61f-c8406298b8a5,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+3f07fa71-06d6-47b5-b4e9-66590a1bdc40,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+3f07fa71-06d6-47b5-b4e9-66590a1bdc40,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+3f07fa71-06d6-47b5-b4e9-66590a1bdc40,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+3f07fa71-06d6-47b5-b4e9-66590a1bdc40,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+3f07fa71-06d6-47b5-b4e9-66590a1bdc40,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+0273bc9f-45f5-42a7-9948-77e609b258b5,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+0273bc9f-45f5-42a7-9948-77e609b258b5,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+0273bc9f-45f5-42a7-9948-77e609b258b5,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+0273bc9f-45f5-42a7-9948-77e609b258b5,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+197107fe-d3c3-4a3b-8e2c-cfa36b1e72a0,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+197107fe-d3c3-4a3b-8e2c-cfa36b1e72a0,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+197107fe-d3c3-4a3b-8e2c-cfa36b1e72a0,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+197107fe-d3c3-4a3b-8e2c-cfa36b1e72a0,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+197107fe-d3c3-4a3b-8e2c-cfa36b1e72a0,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+1d60bcb5-dd1b-4403-b059-38314ee25d20,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+427fafa6-1271-4585-9070-3a92dd8deaab,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+427fafa6-1271-4585-9070-3a92dd8deaab,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+427fafa6-1271-4585-9070-3a92dd8deaab,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+427fafa6-1271-4585-9070-3a92dd8deaab,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Python,Programming Language,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,R,Programming Language,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,ETL,Data Engineering,dictionary_regex
+dd75743d-5e03-4215-bec5-2bdfb23bc196,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+a42b6650-6d96-4597-8a0e-b12e65e3b87d,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+5fc407e0-2944-4cec-ba3f-f6f8fe0456d7,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+d7ed162a-a9ba-4da9-9274-92dcf76cb6f9,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Python,Programming Language,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,R,Programming Language,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Metabase,BI & Visualization,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Machine Learning,Machine Learning & AI,dictionary_regex
+7146aee2-3be1-4528-8551-4554e23bd2eb,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+ed15e4e6-d1a9-43e3-981c-645b5e76b313,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+ed15e4e6-d1a9-43e3-981c-645b5e76b313,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+ed15e4e6-d1a9-43e3-981c-645b5e76b313,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+ed15e4e6-d1a9-43e3-981c-645b5e76b313,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+18c916a5-270c-4fb7-a77f-42466af5a2c7,Data Analytics & BI,Python,Programming Language,dictionary_regex
+18c916a5-270c-4fb7-a77f-42466af5a2c7,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+18c916a5-270c-4fb7-a77f-42466af5a2c7,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+18c916a5-270c-4fb7-a77f-42466af5a2c7,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+18c916a5-270c-4fb7-a77f-42466af5a2c7,Data Analytics & BI,Metabase,BI & Visualization,dictionary_regex
+f4d64784-6cf7-4524-b7e1-4f47a21fb242,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Python,Programming Language,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Microsoft SQL Server,Database & Storage,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Redis,Database & Storage,dictionary_regex
+f2ce64a3-6ae1-4e20-b9e8-c7d70e62b34d,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+3f36f3d2-84b7-4665-ae92-956799ad913b,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+3f36f3d2-84b7-4665-ae92-956799ad913b,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+3f36f3d2-84b7-4665-ae92-956799ad913b,Data Analytics & BI,Oracle,Database & Storage,dictionary_regex
+3f36f3d2-84b7-4665-ae92-956799ad913b,Data Analytics & BI,ETL,Data Engineering,dictionary_regex
+e8499ef9-3697-4984-ba10-da19b1317ed4,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+3f9f7456-7452-4bfd-a7c3-ba5b91bca00b,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+01cf0f30-2ecc-4b17-ad79-619629b236dc,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+01cf0f30-2ecc-4b17-ad79-619629b236dc,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+01cf0f30-2ecc-4b17-ad79-619629b236dc,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+01cf0f30-2ecc-4b17-ad79-619629b236dc,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+f23643d9-9541-40c3-85f9-85bf0292c0c3,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+f23643d9-9541-40c3-85f9-85bf0292c0c3,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+1533d25e-a404-4cf8-b161-587b1fe6d195,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+cb8754f6-1264-4a60-a073-da59df2bb350,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+5e8965b8-6e9c-4dec-9237-96727d221840,Data Analytics & BI,R,Programming Language,dictionary_regex
+5e8965b8-6e9c-4dec-9237-96727d221840,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+41cb95ec-9988-4ef6-a71e-5fd21f556558,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+141a71aa-c48a-44fa-b4cd-be60a9897ebb,Data Analytics & BI,Python,Programming Language,dictionary_regex
+d19b32da-b504-4194-b4f4-090acad5d1de,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Python,Programming Language,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,R,Programming Language,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Microsoft SQL Server,Database & Storage,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Redis,Database & Storage,dictionary_regex
+ad68cd08-b647-438f-be85-2ca829229f45,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+2bc42fe4-9b95-4dac-ba7f-5badbe2433ec,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+2bc42fe4-9b95-4dac-ba7f-5badbe2433ec,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+2bc42fe4-9b95-4dac-ba7f-5badbe2433ec,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+62ecb740-90db-4968-85fa-bdbf5d56f9b9,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+62ecb740-90db-4968-85fa-bdbf5d56f9b9,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+269e5839-bfcf-4f71-90ae-b8464878b37c,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+269e5839-bfcf-4f71-90ae-b8464878b37c,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+269e5839-bfcf-4f71-90ae-b8464878b37c,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+269e5839-bfcf-4f71-90ae-b8464878b37c,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+81b0e1a6-c685-4ecc-94ab-5650ae17e849,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+81b0e1a6-c685-4ecc-94ab-5650ae17e849,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+81b0e1a6-c685-4ecc-94ab-5650ae17e849,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+ddfe2b57-3476-400a-a025-eb6b4668b86f,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+ddfe2b57-3476-400a-a025-eb6b4668b86f,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+ddfe2b57-3476-400a-a025-eb6b4668b86f,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+ddfe2b57-3476-400a-a025-eb6b4668b86f,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+ddfe2b57-3476-400a-a025-eb6b4668b86f,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+40a25e38-e0d5-42ff-88af-405e357aaf79,Data Science,Python,Programming Language,dictionary_regex
+40a25e38-e0d5-42ff-88af-405e357aaf79,Data Science,SQL,Programming Language,dictionary_regex
+40a25e38-e0d5-42ff-88af-405e357aaf79,Data Science,R,Programming Language,dictionary_regex
+40a25e38-e0d5-42ff-88af-405e357aaf79,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+40a25e38-e0d5-42ff-88af-405e357aaf79,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+a3516cfe-fff8-4636-88da-bdda1a5a668b,Data Analytics & BI,Python,Programming Language,dictionary_regex
+a3516cfe-fff8-4636-88da-bdda1a5a668b,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+a3516cfe-fff8-4636-88da-bdda1a5a668b,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+73054370-453c-495d-82d0-96f04ab9f051,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Python,Programming Language,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Metabase,BI & Visualization,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,MySQL,Database & Storage,dictionary_regex
+b5de3a42-9b74-4ca9-bea7-e61deb17bce2,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,Python,Programming Language,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,SQL,Programming Language,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,Tableau,BI & Visualization,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,MySQL,Database & Storage,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,ETL,Data Engineering,dictionary_regex
+adcf4bc8-f5d6-4734-96b0-8225181c46b9,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+81dcb01c-e638-41ff-ab57-4adbe89eaa1d,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+81dcb01c-e638-41ff-ab57-4adbe89eaa1d,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+43b5a696-e67f-4b30-8859-de73172ae374,Data Engineering,SQL,Programming Language,dictionary_regex
+43b5a696-e67f-4b30-8859-de73172ae374,Data Engineering,ETL,Data Engineering,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,SQL,Programming Language,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,MySQL,Database & Storage,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,ETL,Data Engineering,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,Apache Airflow,Data Engineering,dictionary_regex
+c2e9d225-5c47-4b45-a27b-fef42e695bf3,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Python,Programming Language,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,SQL,Programming Language,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,MySQL,Database & Storage,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,ETL,Data Engineering,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+c7020251-f93b-4b95-8957-55bce5273fc3,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+44ff5172-dc95-4047-a6c1-f6be14fd6a90,Data Engineering,SQL,Programming Language,dictionary_regex
+44ff5172-dc95-4047-a6c1-f6be14fd6a90,Data Engineering,ETL,Data Engineering,dictionary_regex
+44ff5172-dc95-4047-a6c1-f6be14fd6a90,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+44ff5172-dc95-4047-a6c1-f6be14fd6a90,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,Python,Programming Language,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,ETL,Data Engineering,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,Docker,Cloud & DevOps,dictionary_regex
+93e1ec79-7a74-4685-b4e0-1a8a199ab849,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Python,Programming Language,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,SQL,Programming Language,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Power BI,BI & Visualization,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Tableau,BI & Visualization,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,MySQL,Database & Storage,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Snowflake,Database & Storage,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+3261aa9d-20dd-47ee-a104-e61051165bcb,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+1ad3d211-3c20-4b71-9db8-ce70fe03a866,Data Engineering,ETL,Data Engineering,dictionary_regex
+1ad3d211-3c20-4b71-9db8-ce70fe03a866,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+1ad3d211-3c20-4b71-9db8-ce70fe03a866,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Python,Programming Language,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,SQL,Programming Language,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Snowflake,Database & Storage,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Apache Airflow,Data Engineering,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Docker,Cloud & DevOps,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+35c6d2d0-eecb-4c75-bddf-f499037e9964,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Python,Programming Language,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,SQL,Programming Language,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Snowflake,Database & Storage,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,BigQuery,Database & Storage,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,ETL,Data Engineering,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Apache Airflow,Data Engineering,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,GCP,Cloud & DevOps,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Docker,Cloud & DevOps,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+75d82c97-589c-4e57-83f8-768a57d0b658,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,Python,Programming Language,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,SQL,Programming Language,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,MySQL,Database & Storage,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,ETL,Data Engineering,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,Apache Airflow,Data Engineering,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+d2d835f6-45f2-4196-b0dd-f146d3d5e2f0,Data Engineering,Statistics,Analytics & Modeling,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,SQL,Programming Language,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,Power BI,BI & Visualization,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,Tableau,BI & Visualization,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,ETL,Data Engineering,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+bdd43ed4-fe5a-471f-9759-89fd8321f301,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+f59fbcc2-f48b-4fdd-8e3d-e5df9bc9f94d,Data Engineering,SQL,Programming Language,dictionary_regex
+f59fbcc2-f48b-4fdd-8e3d-e5df9bc9f94d,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+f59fbcc2-f48b-4fdd-8e3d-e5df9bc9f94d,Data Engineering,ETL,Data Engineering,dictionary_regex
+f59fbcc2-f48b-4fdd-8e3d-e5df9bc9f94d,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Python,Programming Language,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,SQL,Programming Language,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,R,Programming Language,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Redis,Database & Storage,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Oracle,Database & Storage,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Apache Kafka,Data Engineering,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Hadoop,Data Engineering,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+9029f434-d8c2-4260-9db0-b0dc35081559,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+d5e68800-f11b-4842-b0c8-6ec0b208efee,Data Engineering,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+d5e68800-f11b-4842-b0c8-6ec0b208efee,Data Engineering,Google Sheets,Spreadsheet & Office,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Python,Programming Language,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,SQL,Programming Language,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,MySQL,Database & Storage,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,ETL,Data Engineering,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+6a0293cd-2ba4-419c-bc13-3f750786b18b,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,SQL,Programming Language,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,MySQL,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,Oracle,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,Snowflake,Database & Storage,dictionary_regex
+a2a39604-c100-4879-9e71-fa4a94ca02b4,Data Engineering,ETL,Data Engineering,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Python,Programming Language,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,SQL,Programming Language,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,ETL,Data Engineering,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Apache Kafka,Data Engineering,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,GCP,Cloud & DevOps,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Azure,Cloud & DevOps,dictionary_regex
+baa967b0-4ea8-4abc-97fc-90a2dad33bc0,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Python,Programming Language,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,SQL,Programming Language,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,MySQL,Database & Storage,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Redis,Database & Storage,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,ETL,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Apache Airflow,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Hadoop,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,GCP,Cloud & DevOps,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Docker,Cloud & DevOps,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Kubernetes,Cloud & DevOps,dictionary_regex
+5654e7f7-7b0c-44c1-9c29-df5c1cbeae0f,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Python,Programming Language,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,SQL,Programming Language,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,PostgreSQL,Database & Storage,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Oracle,Database & Storage,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,ETL,Data Engineering,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Hadoop,Data Engineering,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,GCP,Cloud & DevOps,dictionary_regex
+b2c91183-2cc6-40bc-b0ba-d04b396acd04,Data Engineering,Azure,Cloud & DevOps,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,SQL,Programming Language,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,MySQL,Database & Storage,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,Oracle,Database & Storage,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,ETL,Data Engineering,dictionary_regex
+7689999e-5482-4c80-9377-7f99d279e1a1,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+18d5f079-adb4-446a-96f7-46699d3a00f7,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+18d5f079-adb4-446a-96f7-46699d3a00f7,Data Engineering,GCP,Cloud & DevOps,dictionary_regex
+18d5f079-adb4-446a-96f7-46699d3a00f7,Data Engineering,Azure,Cloud & DevOps,dictionary_regex
+18d5f079-adb4-446a-96f7-46699d3a00f7,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+f61c8ecc-c32b-4e74-aa91-a4492b42473b,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+f61c8ecc-c32b-4e74-aa91-a4492b42473b,Data Engineering,Apache Kafka,Data Engineering,dictionary_regex
+f61c8ecc-c32b-4e74-aa91-a4492b42473b,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,Python,Programming Language,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,Snowflake,Database & Storage,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,ETL,Data Engineering,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+5cfe6193-2011-4e88-bf74-c7081722e794,Data Engineering,Git,Cloud & DevOps,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Python,Programming Language,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,SQL,Programming Language,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,R,Programming Language,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Power BI,BI & Visualization,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Tableau,BI & Visualization,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Looker,BI & Visualization,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,AWS,Cloud & DevOps,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,GCP,Cloud & DevOps,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Azure,Cloud & DevOps,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,TensorFlow,Machine Learning & AI,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,PyTorch,Machine Learning & AI,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+eddb7ead-2384-4434-9c4d-6c94b436cdba,Data Science,Git,Cloud & DevOps,dictionary_regex
+036638bd-da7f-477a-acd0-a310040b2fbb,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,Python,Programming Language,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,R,Programming Language,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+2259e530-15b8-4bcf-ab27-41d11b10a08a,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+bcea9ae1-5f3d-45b2-b823-be045bb2957c,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+bcea9ae1-5f3d-45b2-b823-be045bb2957c,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+9f198e41-f5f3-409a-a37c-c1acd542d7d2,Machine Learning & AI,Azure,Cloud & DevOps,dictionary_regex
+9f198e41-f5f3-409a-a37c-c1acd542d7d2,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+9f198e41-f5f3-409a-a37c-c1acd542d7d2,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+9f198e41-f5f3-409a-a37c-c1acd542d7d2,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+177e94b5-03c2-412a-90b0-17b5706dea15,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+3537cbee-67de-465c-bd70-d6982e9721c6,Data Science,Python,Programming Language,dictionary_regex
+3537cbee-67de-465c-bd70-d6982e9721c6,Data Science,SQL,Programming Language,dictionary_regex
+41df7bc3-96a3-4443-a93d-ced5c5c465a1,Data Science,Python,Programming Language,dictionary_regex
+41df7bc3-96a3-4443-a93d-ced5c5c465a1,Data Science,R,Programming Language,dictionary_regex
+41df7bc3-96a3-4443-a93d-ced5c5c465a1,Data Science,Data Warehousing,Data Engineering,dictionary_regex
+41df7bc3-96a3-4443-a93d-ced5c5c465a1,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+41df7bc3-96a3-4443-a93d-ced5c5c465a1,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+b61ae734-83eb-4907-9148-3ee1bd2c6d19,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+e5d3488b-dc36-4d59-831a-434a9a9c5842,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+e5d3488b-dc36-4d59-831a-434a9a9c5842,Data Analytics & BI,R,Programming Language,dictionary_regex
+e5d3488b-dc36-4d59-831a-434a9a9c5842,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+e5d3488b-dc36-4d59-831a-434a9a9c5842,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+e5d3488b-dc36-4d59-831a-434a9a9c5842,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Python,Programming Language,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,SQL,Programming Language,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,AWS,Cloud & DevOps,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,GCP,Cloud & DevOps,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Azure,Cloud & DevOps,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Computer Vision,Machine Learning & AI,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,TensorFlow,Machine Learning & AI,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,PyTorch,Machine Learning & AI,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+c968e9b2-ab99-4b23-bfc7-570087f21111,Data Science,Git,Cloud & DevOps,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,Python,Programming Language,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,SQL,Programming Language,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,MongoDB,Database & Storage,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,Redis,Database & Storage,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,ETL,Data Engineering,dictionary_regex
+17197830-5568-4c4e-9568-80457309247b,Data Engineering,Hadoop,Data Engineering,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,Python,Programming Language,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,SQL,Programming Language,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,AWS,Cloud & DevOps,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,GCP,Cloud & DevOps,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,Azure,Cloud & DevOps,dictionary_regex
+dc29bbd3-ac7f-4ed9-b4d8-ec394cc9634c,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Python,Programming Language,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,SQL,Programming Language,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,R,Programming Language,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,ETL,Data Engineering,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Apache Spark,Data Engineering,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Data Pipeline,Data Engineering,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Data Warehousing,Data Engineering,dictionary_regex
+d7f5a383-73ea-4693-b8d4-c71a40aeddc8,Data Engineering,Data Modeling,Data Engineering,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,Python,Programming Language,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,SQL,Programming Language,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,Tableau,BI & Visualization,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,MySQL,Database & Storage,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,Microsoft SQL Server,Database & Storage,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,ETL,Data Engineering,dictionary_regex
+55e807b2-e538-43c4-ad5a-e0e1788094e8,Data Engineering,AWS,Cloud & DevOps,dictionary_regex
+2695b39d-de7e-4bf7-912c-68c9d2711c27,Data Engineering,SQL,Programming Language,dictionary_regex
+2695b39d-de7e-4bf7-912c-68c9d2711c27,Data Engineering,Power BI,BI & Visualization,dictionary_regex
+2695b39d-de7e-4bf7-912c-68c9d2711c27,Data Engineering,Tableau,BI & Visualization,dictionary_regex
+2695b39d-de7e-4bf7-912c-68c9d2711c27,Data Engineering,Looker,BI & Visualization,dictionary_regex
+2695b39d-de7e-4bf7-912c-68c9d2711c27,Data Engineering,Statistics,Analytics & Modeling,dictionary_regex
+fff8fc8e-0a55-4cdf-8797-04f40ee9bd17,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+fff8fc8e-0a55-4cdf-8797-04f40ee9bd17,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+97098853-6ce4-4aa8-858f-506a7283cbaa,Data Analytics & BI,Python,Programming Language,dictionary_regex
+97098853-6ce4-4aa8-858f-506a7283cbaa,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+97098853-6ce4-4aa8-858f-506a7283cbaa,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+97098853-6ce4-4aa8-858f-506a7283cbaa,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+97098853-6ce4-4aa8-858f-506a7283cbaa,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,Python,Programming Language,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,SQL,Programming Language,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,NLP,Machine Learning & AI,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,TensorFlow,Machine Learning & AI,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,PyTorch,Machine Learning & AI,dictionary_regex
+dd316697-c9dd-4241-a301-7805e9276019,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+e1853ed8-0df2-490e-acbd-b98c89f27ff3,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+e1853ed8-0df2-490e-acbd-b98c89f27ff3,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+8ac9848b-9684-4d22-9951-eca4fc144eac,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+8ac9848b-9684-4d22-9951-eca4fc144eac,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+1d9f56a6-8328-489d-b9ab-ea12c378c858,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Python,Programming Language,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,SQL,Programming Language,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,R,Programming Language,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Power BI,BI & Visualization,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Tableau,BI & Visualization,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Looker,BI & Visualization,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+58e3655a-e0cd-4f59-aff0-459a3fa04a3d,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+4e5cd690-c622-4804-ad67-c96055acfe6b,Data Science,Python,Programming Language,dictionary_regex
+4e5cd690-c622-4804-ad67-c96055acfe6b,Data Science,SQL,Programming Language,dictionary_regex
+4e5cd690-c622-4804-ad67-c96055acfe6b,Data Science,R,Programming Language,dictionary_regex
+4e5cd690-c622-4804-ad67-c96055acfe6b,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+4e5cd690-c622-4804-ad67-c96055acfe6b,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+10659b95-b02f-474a-9173-924a8276cca2,Data Science,Python,Programming Language,dictionary_regex
+10659b95-b02f-474a-9173-924a8276cca2,Data Science,R,Programming Language,dictionary_regex
+10659b95-b02f-474a-9173-924a8276cca2,Data Science,Machine Learning,Machine Learning & AI,dictionary_regex
+10659b95-b02f-474a-9173-924a8276cca2,Data Science,NLP,Machine Learning & AI,dictionary_regex
+10659b95-b02f-474a-9173-924a8276cca2,Data Science,Statistics,Analytics & Modeling,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Python,Programming Language,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,R,Programming Language,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+b7d6b801-5ded-42fd-a6a5-d5f3bd0ffe15,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+9eef0292-f1af-43eb-ba50-373e705f0ddb,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+9eef0292-f1af-43eb-ba50-373e705f0ddb,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+9eef0292-f1af-43eb-ba50-373e705f0ddb,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+9eef0292-f1af-43eb-ba50-373e705f0ddb,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+9eef0292-f1af-43eb-ba50-373e705f0ddb,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+eef56cbb-eed6-49d5-9ef6-0ecd0a8a2fa5,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+eef56cbb-eed6-49d5-9ef6-0ecd0a8a2fa5,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+eef56cbb-eed6-49d5-9ef6-0ecd0a8a2fa5,Data Analytics & BI,Power BI,BI & Visualization,dictionary_regex
+eef56cbb-eed6-49d5-9ef6-0ecd0a8a2fa5,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+eef56cbb-eed6-49d5-9ef6-0ecd0a8a2fa5,Data Analytics & BI,Statistics,Analytics & Modeling,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,SQL,Programming Language,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,MySQL,Database & Storage,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,Data Modeling,Data Engineering,dictionary_regex
+205a0916-c9fa-418c-8e10-f1faeb1b69f3,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+4330dc0e-5f94-4651-b484-fbb469bcc6a8,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+4330dc0e-5f94-4651-b484-fbb469bcc6a8,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+4330dc0e-5f94-4651-b484-fbb469bcc6a8,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+4330dc0e-5f94-4651-b484-fbb469bcc6a8,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+4330dc0e-5f94-4651-b484-fbb469bcc6a8,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+3b9289c0-bc81-4ab8-a03e-cf9e9f489fd2,Data Analytics & BI,Tableau,BI & Visualization,dictionary_regex
+3b9289c0-bc81-4ab8-a03e-cf9e9f489fd2,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+3b9289c0-bc81-4ab8-a03e-cf9e9f489fd2,Data Analytics & BI,Looker,BI & Visualization,dictionary_regex
+3b9289c0-bc81-4ab8-a03e-cf9e9f489fd2,Data Analytics & BI,ETL,Data Engineering,dictionary_regex
+ab5e3448-cb5a-4ba4-ac3d-b30a98a02335,Data Analytics & BI,Microsoft Excel,Spreadsheet & Office,dictionary_regex
+ab5e3448-cb5a-4ba4-ac3d-b30a98a02335,Data Analytics & BI,Google Sheets,Spreadsheet & Office,dictionary_regex
+48491afb-2cc7-4bb6-b7f6-7044367ed3ac,Data Analytics & BI,SQL,Programming Language,dictionary_regex
+b1d1e1e0-01b1-4c24-ad01-214ec6b85718,Machine Learning & AI,Python,Programming Language,dictionary_regex
+b1d1e1e0-01b1-4c24-ad01-214ec6b85718,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+b1d1e1e0-01b1-4c24-ad01-214ec6b85718,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+b1d1e1e0-01b1-4c24-ad01-214ec6b85718,Machine Learning & AI,Statistics,Analytics & Modeling,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Python,Programming Language,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Apache Spark,Data Engineering,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Apache Airflow,Data Engineering,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,AWS,Cloud & DevOps,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,GCP,Cloud & DevOps,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Azure,Cloud & DevOps,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+b6025473-63a8-414c-adb7-2a0a0b49bda6,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+020ac38d-4126-47fb-9178-2dd71b4627ec,Machine Learning & AI,Python,Programming Language,dictionary_regex
+020ac38d-4126-47fb-9178-2dd71b4627ec,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+020ac38d-4126-47fb-9178-2dd71b4627ec,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+020ac38d-4126-47fb-9178-2dd71b4627ec,Machine Learning & AI,Statistics,Analytics & Modeling,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,Python,Programming Language,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,TensorFlow,Machine Learning & AI,dictionary_regex
+21005215-ec4c-47e9-a2a8-99ece9bca804,Machine Learning & AI,PyTorch,Machine Learning & AI,dictionary_regex
+f330ed1e-91d5-40ee-ab41-634ee79a966d,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+f330ed1e-91d5-40ee-ab41-634ee79a966d,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,Python,Programming Language,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,SQL,Programming Language,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+bb391074-036d-42a9-8407-5ff4048e5834,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,Python,Programming Language,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,MongoDB,Database & Storage,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,AWS,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,GCP,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,Azure,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,TensorFlow,Machine Learning & AI,dictionary_regex
+3a550179-1674-4503-8c6a-25769cd624eb,Machine Learning & AI,PyTorch,Machine Learning & AI,dictionary_regex
+be772935-e63f-4756-9aae-787018c585b8,Machine Learning & AI,Python,Programming Language,dictionary_regex
+be772935-e63f-4756-9aae-787018c585b8,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+be772935-e63f-4756-9aae-787018c585b8,Machine Learning & AI,MySQL,Database & Storage,dictionary_regex
+be772935-e63f-4756-9aae-787018c585b8,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+be772935-e63f-4756-9aae-787018c585b8,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,Python,Programming Language,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,R,Programming Language,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,BigQuery,Database & Storage,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,Apache Airflow,Data Engineering,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,Apache Kafka,Data Engineering,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,GCP,Cloud & DevOps,dictionary_regex
+ba0a0907-d8bf-400b-b7d5-da0961a96244,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+4c9cd6a6-8019-4a42-961c-3d6baddb61ab,Machine Learning & AI,Python,Programming Language,dictionary_regex
+4c9cd6a6-8019-4a42-961c-3d6baddb61ab,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+4c9cd6a6-8019-4a42-961c-3d6baddb61ab,Machine Learning & AI,Statistics,Analytics & Modeling,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,Python,Programming Language,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,SQL,Programming Language,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,Statistics,Analytics & Modeling,dictionary_regex
+6349e41d-6486-4fa0-8daf-a78e8d6755b4,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Python,Programming Language,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,SQL,Programming Language,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,ETL,Data Engineering,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Apache Spark,Data Engineering,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Apache Airflow,Data Engineering,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Apache Kafka,Data Engineering,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Data Pipeline,Data Engineering,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+4b4b671d-50bf-41d3-81a3-f523a7a8494c,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+1f016322-8713-4c8e-af70-f61857586df9,Machine Learning & AI,Python,Programming Language,dictionary_regex
+1f016322-8713-4c8e-af70-f61857586df9,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+eda22144-e15f-4044-bd2d-21c3523951a6,Machine Learning & AI,Python,Programming Language,dictionary_regex
+eda22144-e15f-4044-bd2d-21c3523951a6,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+eda22144-e15f-4044-bd2d-21c3523951a6,Machine Learning & AI,TensorFlow,Machine Learning & AI,dictionary_regex
+eda22144-e15f-4044-bd2d-21c3523951a6,Machine Learning & AI,PyTorch,Machine Learning & AI,dictionary_regex
+1116947d-435c-4227-a38d-5bc40b20cfee,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+1116947d-435c-4227-a38d-5bc40b20cfee,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+1116947d-435c-4227-a38d-5bc40b20cfee,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+1116947d-435c-4227-a38d-5bc40b20cfee,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+1116947d-435c-4227-a38d-5bc40b20cfee,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+cfb5ab78-dba3-4876-82de-6f2f819cbe76,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+cfb5ab78-dba3-4876-82de-6f2f819cbe76,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+cfb5ab78-dba3-4876-82de-6f2f819cbe76,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+cfb5ab78-dba3-4876-82de-6f2f819cbe76,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+cfb5ab78-dba3-4876-82de-6f2f819cbe76,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+f5083dd8-ea74-4bac-9fac-1b2cfa130844,Machine Learning & AI,Python,Programming Language,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,NLP,Machine Learning & AI,dictionary_regex
+9e6cdd7e-65ee-425d-b600-cd6606f9ddbf,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+de2b4e0d-fbba-489d-8791-0e7f5784d9de,Machine Learning & AI,Python,Programming Language,dictionary_regex
+de2b4e0d-fbba-489d-8791-0e7f5784d9de,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+de2b4e0d-fbba-489d-8791-0e7f5784d9de,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+fc01896e-675e-4ebd-9c6b-d2ea749b8fa7,Machine Learning & AI,Python,Programming Language,dictionary_regex
+fc01896e-675e-4ebd-9c6b-d2ea749b8fa7,Machine Learning & AI,TensorFlow,Machine Learning & AI,dictionary_regex
+fc01896e-675e-4ebd-9c6b-d2ea749b8fa7,Machine Learning & AI,PyTorch,Machine Learning & AI,dictionary_regex
+ec906fb3-0755-48d9-ab07-b428ebd8bace,Machine Learning & AI,Python,Programming Language,dictionary_regex
+ec906fb3-0755-48d9-ab07-b428ebd8bace,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+ec906fb3-0755-48d9-ab07-b428ebd8bace,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+ec906fb3-0755-48d9-ab07-b428ebd8bace,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+2c2836e0-1713-4c67-bfd6-528c228bc0fa,Machine Learning & AI,Python,Programming Language,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,PostgreSQL,Database & Storage,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,MySQL,Database & Storage,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Redis,Database & Storage,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Oracle,Database & Storage,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Apache Kafka,Data Engineering,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,AWS,Cloud & DevOps,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,GCP,Cloud & DevOps,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Azure,Cloud & DevOps,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Docker,Cloud & DevOps,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Kubernetes,Cloud & DevOps,dictionary_regex
+d3e1466b-d425-4990-b98e-3efea9665af8,Machine Learning & AI,Git,Cloud & DevOps,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,Python,Programming Language,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,Machine Learning,Machine Learning & AI,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,Deep Learning,Machine Learning & AI,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,Computer Vision,Machine Learning & AI,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,TensorFlow,Machine Learning & AI,dictionary_regex
+6f03740b-183c-4468-8ce3-18ddfa798f09,Machine Learning & AI,PyTorch,Machine Learning & AI,dictionary_regex

@@ -7,8 +7,9 @@
 .env.*
 !.env.example
 
-# 2. Data Directories & Local Databases
-data/
+# 2. Raw Data & Local Databases (Processed data is tracked for dashboard deployment)
+data/raw/
+data/.ipynb_checkpoints/
 *.db
 *.sqlite
 *.sqlite3

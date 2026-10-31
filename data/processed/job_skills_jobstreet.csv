@@ -1,0 +1,427 @@
+job_id,skill_name,skill_category
+95292954,Excel,BI & Visualization
+95292954,Statistics / Modeling,Data Science & ML
+95570805,Looker,BI & Visualization
+95570805,Excel,BI & Visualization
+95225815,Tableau,BI & Visualization
+95225815,Power BI,BI & Visualization
+95225815,Excel,BI & Visualization
+95554234,SQL,Programming Languages
+95554234,Power BI,BI & Visualization
+95554234,Excel,BI & Visualization
+95512445,Statistics / Modeling,Data Science & ML
+95572071,Python,Programming Languages
+95572071,SQL,Programming Languages
+95572071,Tableau,BI & Visualization
+95572071,Power BI,BI & Visualization
+95572071,Excel,BI & Visualization
+95572071,PostgreSQL,Databases & Warehousing
+95572071,MySQL,Databases & Warehousing
+95572071,Statistics / Modeling,Data Science & ML
+95436701,SQL,Programming Languages
+95436701,Tableau,BI & Visualization
+95436701,Power BI,BI & Visualization
+95436701,Excel,BI & Visualization
+95436701,Statistics / Modeling,Data Science & ML
+95055732,Python,Programming Languages
+95055732,R,Programming Languages
+95055732,SQL,Programming Languages
+95055732,Tableau,BI & Visualization
+95055732,Power BI,BI & Visualization
+95055732,Excel,BI & Visualization
+95055732,Statistics / Modeling,Data Science & ML
+95018696,Excel,BI & Visualization
+95384623,SQL,Programming Languages
+95384623,Tableau,BI & Visualization
+95384623,Power BI,BI & Visualization
+95384623,Looker,BI & Visualization
+95384623,Qlik,BI & Visualization
+95356340,Excel,BI & Visualization
+95356340,Statistics / Modeling,Data Science & ML
+95018512,Excel,BI & Visualization
+95582087,Python,Programming Languages
+95582087,SQL,Programming Languages
+95582087,PostgreSQL,Databases & Warehousing
+95582087,MySQL,Databases & Warehousing
+95582087,SQL Server,Databases & Warehousing
+95582087,Oracle,Databases & Warehousing
+95316246,Python,Programming Languages
+95316246,R,Programming Languages
+95316246,SQL,Programming Languages
+95316246,Tableau,BI & Visualization
+95316246,Power BI,BI & Visualization
+95316246,Excel,BI & Visualization
+95316246,Statistics / Modeling,Data Science & ML
+95235274,Power BI,BI & Visualization
+95235274,Excel,BI & Visualization
+95401237,Looker,BI & Visualization
+95401237,Excel,BI & Visualization
+95401237,Statistics / Modeling,Data Science & ML
+95401237,A/B Testing,Data Science & ML
+95225265,Excel,BI & Visualization
+95136461,Python,Programming Languages
+95136461,SQL,Programming Languages
+95136461,Power BI,BI & Visualization
+95136461,Excel,BI & Visualization
+95360649,Python,Programming Languages
+95360649,SQL,Programming Languages
+95360649,Tableau,BI & Visualization
+95360649,Power BI,BI & Visualization
+95360649,Pandas,Data Science & ML
+95360649,NumPy,Data Science & ML
+95082628,Tableau,BI & Visualization
+95082628,Power BI,BI & Visualization
+95082628,Excel,BI & Visualization
+95503060,SQL,Programming Languages
+95503060,Power BI,BI & Visualization
+95503060,Excel,BI & Visualization
+95343417,Excel,BI & Visualization
+95343417,Statistics / Modeling,Data Science & ML
+95017828,Excel,BI & Visualization
+95115202,Python,Programming Languages
+95115202,R,Programming Languages
+95115202,SQL,Programming Languages
+95115202,Tableau,BI & Visualization
+95115202,Power BI,BI & Visualization
+95115202,Excel,BI & Visualization
+95115202,Statistics / Modeling,Data Science & ML
+95441114,Excel,BI & Visualization
+95615063,SQL,Programming Languages
+95615063,Excel,BI & Visualization
+95615063,Machine Learning,Data Science & ML
+95492157,Excel,BI & Visualization
+95287490,Excel,BI & Visualization
+93123095,Tableau,BI & Visualization
+93123095,Power BI,BI & Visualization
+95229320,Excel,BI & Visualization
+95468692,SQL,Programming Languages
+95468692,Tableau,BI & Visualization
+95468692,Power BI,BI & Visualization
+95468692,Looker,BI & Visualization
+95409840,Excel,BI & Visualization
+95471789,Python,Programming Languages
+95471789,SQL,Programming Languages
+95471789,Apache Spark,Big Data & Cloud
+95471789,Machine Learning,Data Science & ML
+95471789,Scikit-Learn,Data Science & ML
+95471789,Pandas,Data Science & ML
+95471789,Statistics / Modeling,Data Science & ML
+95587115,BigQuery,Databases & Warehousing
+95587115,Snowflake,Databases & Warehousing
+95587115,Redshift,Databases & Warehousing
+95587115,ClickHouse,Databases & Warehousing
+95587115,Apache Spark,Big Data & Cloud
+95587115,AWS,Big Data & Cloud
+95587115,GCP,Big Data & Cloud
+95587115,Databricks,Big Data & Cloud
+95587115,Machine Learning,Data Science & ML
+95587115,TensorFlow,Data Science & ML
+95587115,PyTorch,Data Science & ML
+95583193,Python,Programming Languages
+95583193,SQL,Programming Languages
+95583193,Statistics / Modeling,Data Science & ML
+95583193,A/B Testing,Data Science & ML
+95604833,Machine Learning,Data Science & ML
+95568889,Python,Programming Languages
+95568889,SQL,Programming Languages
+95568889,AWS,Big Data & Cloud
+95568889,GCP,Big Data & Cloud
+95568889,Azure,Big Data & Cloud
+95568889,Machine Learning,Data Science & ML
+95568889,Deep Learning,Data Science & ML
+95568889,NLP,Data Science & ML
+95568889,Computer Vision,Data Science & ML
+95568889,TensorFlow,Data Science & ML
+95568889,PyTorch,Data Science & ML
+95568889,Scikit-Learn,Data Science & ML
+95568889,Statistics / Modeling,Data Science & ML
+95262181,Python,Programming Languages
+95262181,Docker,Big Data & Cloud
+95262181,Machine Learning,Data Science & ML
+95262181,Computer Vision,Data Science & ML
+95262181,TensorFlow,Data Science & ML
+95133334,Tableau,BI & Visualization
+95133334,Power BI,BI & Visualization
+95133334,Statistics / Modeling,Data Science & ML
+95018623,Excel,BI & Visualization
+95411667,SQL,Programming Languages
+95411667,Power BI,BI & Visualization
+95411667,Excel,BI & Visualization
+95575115,Excel,BI & Visualization
+95281527,Excel,BI & Visualization
+95292658,Excel,BI & Visualization
+95292658,Statistics / Modeling,Data Science & ML
+95341943,SQL,Programming Languages
+95341943,Power BI,BI & Visualization
+95341943,Google Data Studio,BI & Visualization
+95341943,Excel,BI & Visualization
+95341943,SQL Server,Databases & Warehousing
+95341943,Oracle,Databases & Warehousing
+95196919,Excel,BI & Visualization
+95606735,Python,Programming Languages
+95606735,SQL,Programming Languages
+95606735,Bash / Shell,Programming Languages
+95524239,Python,Programming Languages
+95524239,SQL,Programming Languages
+95524239,MongoDB,Databases & Warehousing
+95524239,BigQuery,Databases & Warehousing
+95524239,Airflow,Big Data & Cloud
+95524239,GCP,Big Data & Cloud
+95524239,Docker,Big Data & Cloud
+95524239,Kubernetes,Big Data & Cloud
+95384579,SQL,Programming Languages
+95384579,Tableau,BI & Visualization
+95384579,Power BI,BI & Visualization
+95384579,Excel,BI & Visualization
+95145578,Python,Programming Languages
+95145578,SQL,Programming Languages
+95145578,Java,Programming Languages
+95145578,SQL Server,Databases & Warehousing
+95145578,Azure,Big Data & Cloud
+95209519,Python,Programming Languages
+95209519,R,Programming Languages
+95209519,Tableau,BI & Visualization
+95209519,Power BI,BI & Visualization
+95209519,PostgreSQL,Databases & Warehousing
+95209519,MySQL,Databases & Warehousing
+95209519,MongoDB,Databases & Warehousing
+95212648,Python,Programming Languages
+95212648,SQL,Programming Languages
+95212648,PostgreSQL,Databases & Warehousing
+95212648,MySQL,Databases & Warehousing
+95212648,MongoDB,Databases & Warehousing
+95212648,BigQuery,Databases & Warehousing
+95212648,Redshift,Databases & Warehousing
+95212648,Cassandra,Databases & Warehousing
+95212648,Redis,Databases & Warehousing
+95212648,Apache Spark,Big Data & Cloud
+95212648,Apache Kafka,Big Data & Cloud
+95212648,Hadoop,Big Data & Cloud
+95212648,Airflow,Big Data & Cloud
+95212648,dbt,Big Data & Cloud
+95212648,AWS,Big Data & Cloud
+95212648,GCP,Big Data & Cloud
+95212648,Azure,Big Data & Cloud
+95212648,Docker,Big Data & Cloud
+95212648,Kubernetes,Big Data & Cloud
+95212648,Machine Learning,Data Science & ML
+95486670,Python,Programming Languages
+95486670,SQL,Programming Languages
+95486670,Java,Programming Languages
+95486670,Tableau,BI & Visualization
+95486670,MySQL,Databases & Warehousing
+95486670,Oracle,Databases & Warehousing
+95486670,Apache Spark,Big Data & Cloud
+95486670,Apache Kafka,Big Data & Cloud
+95294028,Python,Programming Languages
+95294028,SQL,Programming Languages
+95294028,Statistics / Modeling,Data Science & ML
+95200520,Python,Programming Languages
+95200520,SQL,Programming Languages
+95200520,PostgreSQL,Databases & Warehousing
+95200520,MySQL,Databases & Warehousing
+95200520,Airflow,Big Data & Cloud
+95200520,Statistics / Modeling,Data Science & ML
+95550334,Python,Programming Languages
+95550334,AWS,Big Data & Cloud
+95550334,GCP,Big Data & Cloud
+95550334,Azure,Big Data & Cloud
+95550334,Machine Learning,Data Science & ML
+95550334,Deep Learning,Data Science & ML
+95550334,TensorFlow,Data Science & ML
+95550334,PyTorch,Data Science & ML
+95550334,Scikit-Learn,Data Science & ML
+95148317,Python,Programming Languages
+95148317,SQL,Programming Languages
+95148317,Scala,Programming Languages
+95148317,Snowflake,Databases & Warehousing
+95148317,Apache Spark,Big Data & Cloud
+95148317,Airflow,Big Data & Cloud
+95148317,dbt,Big Data & Cloud
+95310404,SQL,Programming Languages
+95091431,Python,Programming Languages
+95091431,SQL,Programming Languages
+95091431,Snowflake,Databases & Warehousing
+95117209,Python,Programming Languages
+95117209,SQL,Programming Languages
+95117209,Power BI,BI & Visualization
+95117209,Apache Spark,Big Data & Cloud
+95224126,Python,Programming Languages
+95224126,SQL,Programming Languages
+95224126,Apache Spark,Big Data & Cloud
+95224126,Apache Kafka,Big Data & Cloud
+95224126,AWS,Big Data & Cloud
+95224126,GCP,Big Data & Cloud
+95224126,Azure,Big Data & Cloud
+95027498,Python,Programming Languages
+95027498,SQL,Programming Languages
+95027498,Excel,BI & Visualization
+95027498,PostgreSQL,Databases & Warehousing
+95027498,MySQL,Databases & Warehousing
+95027498,MongoDB,Databases & Warehousing
+95027498,Apache Spark,Big Data & Cloud
+95027498,Hadoop,Big Data & Cloud
+95027498,Airflow,Big Data & Cloud
+95027498,AWS,Big Data & Cloud
+95027498,GCP,Big Data & Cloud
+95027498,Azure,Big Data & Cloud
+95202377,Python,Programming Languages
+95202377,R,Programming Languages
+95202377,SQL,Programming Languages
+95202377,Tableau,BI & Visualization
+95202377,Power BI,BI & Visualization
+95202377,PostgreSQL,Databases & Warehousing
+95202377,SQL Server,Databases & Warehousing
+95202377,Oracle,Databases & Warehousing
+95202377,MongoDB,Databases & Warehousing
+95496201,SQL,Programming Languages
+95496201,PostgreSQL,Databases & Warehousing
+95496201,MySQL,Databases & Warehousing
+95496201,SQL Server,Databases & Warehousing
+95496201,Oracle,Databases & Warehousing
+95496201,Snowflake,Databases & Warehousing
+95496201,AWS,Big Data & Cloud
+95496201,Azure,Big Data & Cloud
+95471791,SQL,Programming Languages
+95471791,Power BI,BI & Visualization
+95471791,Snowflake,Databases & Warehousing
+95471791,Apache Spark,Big Data & Cloud
+95471791,Databricks,Big Data & Cloud
+95471791,Machine Learning,Data Science & ML
+95471791,NLP,Data Science & ML
+95471791,Statistics / Modeling,Data Science & ML
+95522443,SQL,Programming Languages
+95522443,Power BI,BI & Visualization
+95522443,Oracle,Databases & Warehousing
+95522443,Statistics / Modeling,Data Science & ML
+95049387,Python,Programming Languages
+95049387,Java,Programming Languages
+95049387,PostgreSQL,Databases & Warehousing
+95049387,MySQL,Databases & Warehousing
+95049387,Oracle,Databases & Warehousing
+95049387,MongoDB,Databases & Warehousing
+95049387,Cassandra,Databases & Warehousing
+95049387,Redis,Databases & Warehousing
+95049387,Apache Kafka,Big Data & Cloud
+95049387,AWS,Big Data & Cloud
+95049387,GCP,Big Data & Cloud
+95049387,Azure,Big Data & Cloud
+95049387,Machine Learning,Data Science & ML
+95049387,Deep Learning,Data Science & ML
+95049387,NLP,Data Science & ML
+95049387,TensorFlow,Data Science & ML
+95049387,PyTorch,Data Science & ML
+95049387,Scikit-Learn,Data Science & ML
+95049387,Pandas,Data Science & ML
+95049387,NumPy,Data Science & ML
+95199969,Python,Programming Languages
+95199969,SQL,Programming Languages
+95199969,Apache Spark,Big Data & Cloud
+95199969,Airflow,Big Data & Cloud
+95359032,Statistics / Modeling,Data Science & ML
+95501238,Python,Programming Languages
+95501238,Machine Learning,Data Science & ML
+95264526,Python,Programming Languages
+95264526,SQL,Programming Languages
+95264526,BigQuery,Databases & Warehousing
+95264526,AWS,Big Data & Cloud
+95264526,Machine Learning,Data Science & ML
+95264526,Scikit-Learn,Data Science & ML
+95264526,Pandas,Data Science & ML
+95264526,NumPy,Data Science & ML
+95264526,Statistics / Modeling,Data Science & ML
+95119240,Python,Programming Languages
+95119240,SQL,Programming Languages
+95119240,SQL Server,Databases & Warehousing
+95054268,SQL,Programming Languages
+95054268,Tableau,BI & Visualization
+95054268,Power BI,BI & Visualization
+95054268,Excel,BI & Visualization
+95054268,Oracle,Databases & Warehousing
+95260088,SQL,Programming Languages
+95260088,Power BI,BI & Visualization
+95260088,Excel,BI & Visualization
+95255843,Excel,BI & Visualization
+95386497,Excel,BI & Visualization
+93403701,SQL,Programming Languages
+93403701,Tableau,BI & Visualization
+93403701,Power BI,BI & Visualization
+93403701,Looker,BI & Visualization
+93403701,Excel,BI & Visualization
+95569614,SQL,Programming Languages
+95569614,SQL Server,Databases & Warehousing
+95569614,Statistics / Modeling,Data Science & ML
+94829842,Python,Programming Languages
+94829842,SQL,Programming Languages
+94829842,Tableau,BI & Visualization
+94829842,Power BI,BI & Visualization
+95291458,Tableau,BI & Visualization
+95291458,Power BI,BI & Visualization
+95291458,Looker,BI & Visualization
+95291458,Excel,BI & Visualization
+95291458,Statistics / Modeling,Data Science & ML
+95241229,Excel,BI & Visualization
+95241229,Statistics / Modeling,Data Science & ML
+95553825,Excel,BI & Visualization
+95553825,Statistics / Modeling,Data Science & ML
+95319928,Power BI,BI & Visualization
+95319928,Excel,BI & Visualization
+95319928,Snowflake,Databases & Warehousing
+95523426,R,Programming Languages
+95523426,SQL,Programming Languages
+95523426,Machine Learning,Data Science & ML
+95095619,Python,Programming Languages
+95095619,SQL,Programming Languages
+95095619,Tableau,BI & Visualization
+95095619,Looker,BI & Visualization
+95095619,Excel,BI & Visualization
+95095619,AWS,Big Data & Cloud
+95095619,GCP,Big Data & Cloud
+95095619,Azure,Big Data & Cloud
+95095619,Statistics / Modeling,Data Science & ML
+95355529,Python,Programming Languages
+95355529,SQL,Programming Languages
+95355529,AWS,Big Data & Cloud
+95355529,Azure,Big Data & Cloud
+95355529,Docker,Big Data & Cloud
+95355529,Machine Learning,Data Science & ML
+95355529,NLP,Data Science & ML
+95355529,TensorFlow,Data Science & ML
+95355529,PyTorch,Data Science & ML
+95355529,Scikit-Learn,Data Science & ML
+95355529,Pandas,Data Science & ML
+95355529,NumPy,Data Science & ML
+95355529,Statistics / Modeling,Data Science & ML
+95096452,Python,Programming Languages
+95096452,R,Programming Languages
+95096452,Scala,Programming Languages
+95096452,AWS,Big Data & Cloud
+95096452,Azure,Big Data & Cloud
+95096452,Machine Learning,Data Science & ML
+95347822,Python,Programming Languages
+95347822,Docker,Big Data & Cloud
+95133642,Python,Programming Languages
+95133642,SQL,Programming Languages
+95133642,PostgreSQL,Databases & Warehousing
+95133642,AWS,Big Data & Cloud
+95133642,Azure,Big Data & Cloud
+95133642,Docker,Big Data & Cloud
+95100355,Python,Programming Languages
+95100355,SQL,Programming Languages
+95100355,Power BI,BI & Visualization
+95100355,Machine Learning,Data Science & ML
+95100355,Scikit-Learn,Data Science & ML
+95100355,Statistics / Modeling,Data Science & ML
+94780141,Python,Programming Languages
+94780141,SQL,Programming Languages
+94780141,Tableau,BI & Visualization
+94780141,Power BI,BI & Visualization
+94780141,Machine Learning,Data Science & ML
+94780141,Statistics / Modeling,Data Science & ML
+95252999,Python,Programming Languages
+95252999,SQL,Programming Languages
+95061770,Python,Programming Languages
+95061770,Java,Programming Languages
+95061770,Machine Learning,Data Science & ML
+95199960,Python,Programming Languages
+95199960,Docker,Big Data & Cloud
