@@ -33,10 +33,7 @@ flowchart LR
    - Skema DDL relasional dan view analitik terstruktur di PostgreSQL (`sql/schema.sql` dan `sql/views.sql`).
    - Uji integritas referensial Foreign Key (0 orphan records) dan keunikan Primary Key.
 
-5. **SQL Interview Mastery:**
-   - Praktik komprehensif menguji seluruh konsep SQL (Agregasi, HAVING, Anti-Join, COALESCE, Advanced Window Functions `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `LAG`, Set Operations `INTERSECT`/`EXCEPT`).
-
-6. **Dashboard Interaktif (`dashboard/app.py`):**
+5. **Dashboard Interaktif (`dashboard/app.py`):**
    - Dashboard analitik berbasis Streamlit & Plotly yang dirancang mengikuti prinsip *Visual Hierarchy*, *Grid Alignment*, dan *Cognitive Load Reduction*.
 
 ---
