@@ -116,9 +116,21 @@ st.markdown("""
 # ==============================================================================
 @st.cache_data(ttl=3600)
 def get_cached_data():
-    return load_data()
+    df_j, df_s, src = load_data()
+    if df_j is None or df_j.empty:
+        raise ValueError("Dataset lowongan pekerjaan (jobs_master) tidak berhasil dimuat.")
+    return df_j, df_s, src
 
-df_jobs_raw, df_skills_raw, data_source_name = get_cached_data()
+try:
+    df_jobs_raw, df_skills_raw, data_source_name = get_cached_data()
+except Exception as e:
+    st.error(f"❌ **Gagal Memuat Dataset:** {e}")
+    st.info("Pastikan file data tersedia di repositori. Silakan refresh halaman.")
+    st.stop()
+
+if df_jobs_raw is None or df_jobs_raw.empty:
+    st.warning("⚠️ Dataset pekerjaan kosong.")
+    st.stop()
 
 
 # ==============================================================================
@@ -130,23 +142,23 @@ with st.sidebar:
     st.caption("Sesuaikan parameter eksplorasi data:")
 
     # 1. Filter Platform Sumber
-    sources_available = ["Semua Platform"] + sorted(df_jobs_raw["source"].unique().tolist())
+    sources_available = ["Semua Platform"] + sorted([str(s) for s in df_jobs_raw["source"].dropna().unique()])
     selected_source = st.selectbox("🌐 Platform Sumber", sources_available)
 
     # 2. Filter Kelompok Profesi (Role Group)
-    roles_available = sorted(df_jobs_raw["role_group"].unique().tolist())
+    roles_available = sorted([str(r) for r in df_jobs_raw["role_group"].dropna().unique()])
     selected_roles = st.multiselect("💼 Kelompok Profesi", roles_available, default=roles_available)
 
     # 3. Filter Sektor Industri
-    industries_available = sorted(df_jobs_raw["industry_category"].dropna().unique().tolist())
+    industries_available = sorted([str(i) for i in df_jobs_raw["industry_category"].dropna().unique()])
     selected_industries = st.multiselect("🏢 Sektor Industri", industries_available, default=industries_available)
 
     # 4. Filter Mode Kerja
-    work_modes_available = sorted(df_jobs_raw["work_mode"].dropna().unique().tolist())
+    work_modes_available = sorted([str(w) for w in df_jobs_raw["work_mode"].dropna().unique()])
     selected_work_modes = st.multiselect("💻 Mode Kerja", work_modes_available, default=work_modes_available)
 
     # 5. Filter Jenjang Pengalaman
-    exp_available = sorted(df_jobs_raw["experience_level"].dropna().unique().tolist())
+    exp_available = sorted([str(e) for e in df_jobs_raw["experience_level"].dropna().unique()])
     selected_exp = st.multiselect("🎓 Jenjang Pengalaman", exp_available, default=exp_available)
 
     # 6. Filter Rentang Gaji (Hanya lowongan dengan gaji terbuka)

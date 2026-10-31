@@ -32,11 +32,59 @@ def get_database_engine():
     except Exception:
         return None
 
+def find_data_file(filename):
+    """Mencari file di berbagai kemungkinan direktori secara tangguh."""
+    candidate_dirs = [
+        CURRENT_DIR,
+        DATA_PROCESSED_DIR,
+        PROJECT_ROOT / "data" / "processed",
+        Path.cwd() / "dashboard",
+        Path.cwd() / "data" / "processed",
+        Path.cwd(),
+        Path("/mount/src/analisis-job-market-bidang-data-di-indonesia/dashboard"),
+        Path("/mount/src/analisis-job-market-bidang-data-di-indonesia/data/processed"),
+    ]
+    for directory in candidate_dirs:
+        try:
+            target = directory / filename
+            if target.exists() and target.is_file():
+                return target
+        except Exception:
+            continue
+    return None
+
+def load_file_dataframe(stem_name):
+    """
+    Memuat DataFrame dari file parquet atau csv.
+    Mencoba format .parquet terlebih dahulu, lalu fallback otomatis ke .csv.
+    """
+    # 1. Coba baca format Parquet
+    p_path = find_data_file(f"{stem_name}.parquet")
+    if p_path is not None:
+        try:
+            df = pd.read_parquet(p_path)
+            if df is not None and not df.empty:
+                return df, f"Parquet ({p_path.name})"
+        except Exception:
+            pass
+
+    # 2. Fallback baca format CSV (kompatibel tanpa ketergantungan pyarrow)
+    c_path = find_data_file(f"{stem_name}.csv")
+    if c_path is not None:
+        try:
+            df = pd.read_csv(c_path)
+            if df is not None and not df.empty:
+                return df, f"CSV ({c_path.name})"
+        except Exception:
+            pass
+
+    return None, None
+
 def load_data():
     """
     Memuat dataset master jobs dan skills.
-    1. Mencoba dari database PostgreSQL lokal jika service menyala di laptop.
-    2. Fallback otomatis membaca file data/processed/ (Parquet / CSV) untuk Streamlit Cloud.
+    1. Mencoba dari database PostgreSQL lokal jika service aktif.
+    2. Fallback otomatis membaca file Parquet / CSV di dashboard/ atau data/processed/.
     """
     engine = get_database_engine()
     df_jobs = None
@@ -54,19 +102,9 @@ def load_data():
             
     # Fallback ke file data bersih terstandarisasi (digunakan oleh Streamlit Cloud)
     if df_jobs is None or df_skills is None:
-        source_used = "Clean Processed Datasets (data/processed/)"
-        jobs_p = DATA_PROCESSED_DIR / "jobs_master.parquet"
-        skills_p = DATA_PROCESSED_DIR / "skills_master.parquet"
-        
-        if jobs_p.exists():
-            df_jobs = pd.read_parquet(jobs_p)
-        elif (DATA_PROCESSED_DIR / "jobs_master.csv").exists():
-            df_jobs = pd.read_csv(DATA_PROCESSED_DIR / "jobs_master.csv")
-            
-        if skills_p.exists():
-            df_skills = pd.read_parquet(skills_p)
-        elif (DATA_PROCESSED_DIR / "skills_master.csv").exists():
-            df_skills = pd.read_csv(DATA_PROCESSED_DIR / "skills_master.csv")
+        df_jobs, src_j = load_file_dataframe("jobs_master")
+        df_skills, src_s = load_file_dataframe("skills_master")
+        source_used = f"Clean Processed Datasets [{src_j or 'N/A'}]"
 
     if df_jobs is not None and "collected_at" in df_jobs.columns:
         df_jobs["collected_at"] = pd.to_datetime(df_jobs["collected_at"], errors="coerce")
