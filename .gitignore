@@ -1,0 +1,45 @@
+# =============================================================================
+# Git Ignore Configuration - Indonesian Data Job Market Intelligence
+# =============================================================================
+
+# 1. Environment & Sensitive Credentials
+.env
+.env.*
+!.env.example
+
+# 2. Data Directories & Local Databases
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# 3. Documentation & Markdown Guides
+markdown/
+
+# 4. Python Environment & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# 5. Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# 6. IDEs & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 7. Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
